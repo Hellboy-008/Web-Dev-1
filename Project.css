@@ -1,0 +1,84 @@
+#sun{
+  font-size: 75px;
+  padding:0%;
+  height: 10px;
+}
+#degree{
+  padding:0%;
+  font-size: 75px;
+  height: 30px;
+}
+
+.float-container{
+  padding:10%;
+position: relative;
+background-color: #2f4f4f;
+height :400px;
+}
+.beach{
+  float:left;
+  width:50%;
+  background: lightblue url("https://wallpaperaccess.com/full/1614306.jpg") 
+   center;
+ color:blanchedalmond;
+ border-radius: 25px;
+}
+.beach-{
+  margin-left: 10%;
+}
+.black{
+  float:left;
+  width:50%;
+  background-color: rgb(3, 0, 14);
+ color:blanchedalmond;
+ border-radius: 25px;
+ margin-top: 2.5%;
+}
+.black-{
+  margin-left:10%;
+}
+#Sunny{
+  font-size: 20px;
+}
+.info{
+  font-size: 30px;
+}
+.weather{
+  padding:0%;
+  position: relative;
+
+}
+.weather-1{
+  float:left;
+  width:25%;
+ background-color: blanchedalmond;
+ color: black;
+ border-radius: 25px;
+}
+.weather-2{
+  float:left;
+  width:25%;
+ 
+}
+.weather-3{
+  float:left;
+  width:25%;
+ 
+}
+.weather-4{
+  float:left;
+  width:25%;
+ 
+}
+.weather-1-{
+  margin-left: 10%;
+}
+.weather-2-{
+  margin-left: 10%;
+}
+.weather-3-{
+  margin-left: 10%;
+}
+.weather-4-{
+  margin-left: 10%;
+}
